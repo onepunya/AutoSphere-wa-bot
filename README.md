@@ -1,6 +1,6 @@
 ### AutoSphere-wa-bot
 
-ini adalah proyek WhatsApp bot yang sudah memasuki taham pengembangan lanjutan 
+ini adalah proyek WhatsApp bot yang sudah memasuki tahap pengembangan lanjutan 
 
 mohon maaf kode tidak open source jika ingin menggunakan silahkan berdiskusi dengan pemilik [hubungi owner](https://wa.me/6289676358643)
 
